@@ -7,5 +7,5 @@ help:	## - show this help
 push:	## - push to all repos
 	git add .
 	git commit -m "💾"
-	git push gitlab -f
 	git push github -f
+	git push gitlab -f
